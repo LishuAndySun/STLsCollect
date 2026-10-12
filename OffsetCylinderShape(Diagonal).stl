@@ -1,0 +1,10 @@
+$fn = 96;
+
+hull()
+{
+    translate([0, 0, 0])
+        cylinder(h = 0.1, r = 10);
+
+    translate([10, 0, 40])
+        cylinder(h = 0.1, r = 10);
+}
