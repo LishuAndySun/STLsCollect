@@ -1,7 +1,7 @@
 import math
 
 # 尺寸，单位：mm
-DIAMETER = 25.0
+DIAMETER = 22.0
 LEG1 = 50.0
 LEG2 = 62.73
 BEND_RADIUS = 25.0
